@@ -21,7 +21,7 @@ Installation
 
 Open the project in Visual Studio: BAZscrap.vbproj, Make sure Windows Forms and .NET Framework dependencies are installed, Build and run the project
 OR
-Download compiled exe like wild animal you are....
+Download precompiled exe like wild animal you are... I mean - download the precompiled .exe and run it directly.
 
 Usage
 - Enter your search phrases and select categories
