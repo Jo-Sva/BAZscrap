@@ -32,3 +32,6 @@ Usage
 Notes
 Settings and history are stored in plain text files for simplicity but can be dangerous...
 
+Known Issues
+Email security: The scraper currently uses only EXPLICIT SSL for email. This is intentional and will not be fixed. EVER!
+
